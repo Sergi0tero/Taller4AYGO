@@ -9,7 +9,7 @@
 // import org.junit.jupiter.api.Test;
 
 // example test. To run these tests, uncomment this file, along with the
-// example resource in java/src/main/java/com/myorg/FirstCdKappStack.java
+// example resource in java/src/main/java/com/myorg/HelloCdkStack.java
 // public class FirstCdKappTest {
 
 //     @Test
